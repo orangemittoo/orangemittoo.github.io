@@ -15,4 +15,4 @@ markdown: kramdown
 github: ./site.github
 safe: true
 lsi: false
-source: ""
+source: "/"
