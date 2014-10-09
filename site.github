@@ -42,6 +42,6 @@
     "is_user_page": false,
     "is_project_page": true,
     "show_downloads": true,
-    "url": "http://orangemittoo.github.io", // (or the CNAME)
+    "url": "http://orangemittoo.net", // (or the CNAME)
     "contributors": [ User Objects ]
 }
